@@ -34,10 +34,6 @@ export const Cryptocurencies = () => {
             <span className={css.stats__number}>4.8/5</span>
             <span className={css.stats__text}>rating</span>
           </div>
-          <div className={css.stats__item}>
-            <span className={css.stats__number}></span>
-            <span className={css.stats__text}></span>
-          </div>
         </div>
         <button className={css.button} onClick={() => {}}>
           JOIN WHATSAPP
